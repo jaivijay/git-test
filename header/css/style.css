@@ -1,0 +1,27 @@
+
+body{margin:0px; padding:0px;}
+
+.newheader{ margin:0px auto; width:819px; border:1px solid #de5e00; border-top:0px; border-radius:0px  0px 32px 32px; background: url(../Filer_for_index/headerback.png) repeat-x; height:115px; font-family:Arial, Helvetica, sans-serif; font-size:12px; box-shadow: 0 0 2px 2px #f38e08;}
+.newheader a{ text-decoration:none; color:#6a6a6a;}
+.newheader .Logo{ position:relative; left:7px; float:left; width:334px; }
+.headerright{ float:left; width:410px; margin-left:45px;}
+.intro{ float:left; width:170px; margin:8px 0 14px 58px; color:#fff; font-family:Arial, Helvetica, sans-serif; text-align:center; font-size:12px;}
+.signup{ float:right; margin:6px 0px 0px 0px;}
+.Navigation{ float:left; width:100%;  float:left; background:url(../Filer_for_index/menuback.png) no-repeat; height:48px; width:410px;}
+.Navigation ul{margin:10px 0px 0px 0px; padding:0px;}
+.Navigation ul li{ float:left; list-style:none; height:34px;}
+.Navigation ul li.cate{margin:0px 11px 0px 17px;}
+.Navigation ul li.upload{margin:0px 11px 0px 8px;}
+.Navigation ul li.sign{margin:0px 11px 0px 8px;}
+.Navigation ul li.about{margin:0px 11px 0px 8px;}
+
+
+.Navigation ul li a{ float:left; text-transform:uppercase;line-height:33px; font-family:Arial Rounded MT Bold,Arial, Helvetica, sans-serif; font-size:11px; color:#d04003; text-decoration:none; font-weight:bold;}
+.Navigation ul li a:hover{ color:#f8632f; text-shadow:1px 1px #f7bb37;}
+/*Profile Page css end*/
+
+.Searchbox{ float:right; width:718px; height:36px;  border:1px solid #c8c8c8; border-radius:5px; margin-top: -38px; margin-bottom:11px; box-shadow: 0 0 2px 2px #d5d5d5; position:relative; background:#f0f0f0;}
+.setext{ color:#6a6a6a; margin-left:20px; line-height:36px; font-size:12px; font-weight:bold; float:left;}
+.Searchbox input{ float:left; width:236px; height:20px; margin:6px 22px 0px 15px;}
+.Gosearch a{ float:left;  border:1px solid #a5a5a5; border-radius:5px; margin:0px 30px 0px 0px;  height:21px; width:32px; text-align:center; line-height:21px; margin-top:6px; background:#d4d4d4;}
+.yoursocial{line-height:36px; float:left; color:#fca710; font-weight:bold;}
